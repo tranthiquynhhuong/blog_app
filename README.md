@@ -2,7 +2,7 @@
 
 Simple blog application customized, inspired to tutorials of [DevStack06](https://github.com/DevStack06). This mobile source was build in 1-2 weeks by only me when I begin learn about Nodejs and Javascript to build server, so all the interactions are basic with functions: Sign up, Sign in, Change password, Get all blog post, Create blog post, Create profile,...
 
-Give me 1 STAR if you feel favorite it >.< Thank you bro!
+`Give me 1` 🌟 `if you feel favorite it >.< Thank you bro!`
 
 ## Getting started
 
